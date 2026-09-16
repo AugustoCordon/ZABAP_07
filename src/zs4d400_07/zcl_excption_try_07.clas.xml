@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_07_METODO_FUNCIONAL</CLSNAME>
+    <CLSNAME>ZCL_EXCPTION_TRY_07</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Try out. L3. U3. Functional Methods</DESCRIPT>
+    <DESCRIPT>Try it Out. L3. C3. Method Calls and Exception Handling</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>

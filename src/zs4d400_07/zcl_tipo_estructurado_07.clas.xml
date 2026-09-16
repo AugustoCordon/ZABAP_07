@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_LITERALES_07</CLSNAME>
+    <CLSNAME>ZCL_TIPO_ESTRUCTURADO_07</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Practicas Monica. Literales</DESCRIPT>
+    <DESCRIPT>Try It Out. L5. C1. Structured Data Types</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>

@@ -1,4 +1,4 @@
-CLASS zcl_07_excption_try DEFINITION
+CLASS zcl_excption_try_07 DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_07_excption_try IMPLEMENTATION.
+CLASS zcl_excption_try_07 IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

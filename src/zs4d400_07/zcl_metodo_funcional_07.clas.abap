@@ -1,4 +1,4 @@
-CLASS zcl_07_metodo_funcional DEFINITION
+CLASS zcl_metodo_funcional_07 DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_07_metodo_funcional IMPLEMENTATION.
+CLASS zcl_metodo_funcional_07 IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

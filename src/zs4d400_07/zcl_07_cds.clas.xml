@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_LITERALES_07</CLSNAME>
+    <CLSNAME>ZCL_07_CDS</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Practicas Monica. Literales</DESCRIPT>
+    <DESCRIPT>Ejercicio 13. L4. C3. Analyze and Use a CDS View Entity</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
