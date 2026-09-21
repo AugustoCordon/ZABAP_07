@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_07_LOCAL_CLASS</CLSNAME>
+    <CLSNAME>ZCL_07_BRANCH</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Ejercicio 8. C3 L1. Define a Local Class</DESCRIPT>
+    <DESCRIPT>Ejercicio 5. C2 L4. Implementar ramificación condicional</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>

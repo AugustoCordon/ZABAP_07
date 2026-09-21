@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_ABAP_SQL_07</CLSNAME>
+    <CLSNAME>ZCL_07_HELLO_WORLD</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Try It Out. L5. C2. Structured Data Objects in ABAP SQL</DESCRIPT>
+    <DESCRIPT>Ejercicio 3. C1 L4. Create a &apos;Hello World&apos; Application</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>

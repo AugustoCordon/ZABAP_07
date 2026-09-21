@@ -5,7 +5,7 @@
    <VSEOCLASS>
     <CLSNAME>ZCL_07_DEBUG</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Class for the Debugging Exercise</DESCRIPT>
+    <DESCRIPT>Ejercicio 7. C2 L6. Debug ABAP Code</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
