@@ -3,13 +3,15 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_METHODS_07</CLSNAME>
+    <CLSNAME>ZBP_R_07FLIGHT</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Practice. C3 L3. ALL</DESCRIPT>
+    <DESCRIPT>Behavior Definition for ZR_07FLIGHT</DESCRIPT>
+    <CATEGORY>06</CATEGORY>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
     <UNICODE>X</UNICODE>
+    <CLSDEFINT>ZR_07FLIGHT</CLSDEFINT>
    </VSEOCLASS>
   </asx:values>
  </asx:abap>

@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_METHODS_07</CLSNAME>
+    <CLSNAME>ZCL_INT_TAB_ABAP_SQL</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Practice. C3 L3. ALL</DESCRIPT>
+    <DESCRIPT>Try It Out. C6 L2. Internal Tables in ABAP SQL</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>

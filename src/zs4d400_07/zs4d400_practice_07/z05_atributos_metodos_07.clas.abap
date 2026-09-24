@@ -1,4 +1,4 @@
-CLASS zcl_methods_07 DEFINITION
+CLASS z05_atributos_metodos_07 DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -12,10 +12,11 @@ ENDCLASS.
 
 
 
-CLASS zcl_methods_07 IMPLEMENTATION.
+CLASS z05_atributos_metodos_07 IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
+
 
 
 

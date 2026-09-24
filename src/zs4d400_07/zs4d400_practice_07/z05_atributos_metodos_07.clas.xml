@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_METHODS_07</CLSNAME>
+    <CLSNAME>Z05_ATRIBUTOS_METODOS_07</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Practice. C3 L3. ALL</DESCRIPT>
+    <DESCRIPT>Caso Practico 2. ABAP: Atributos, métodos y constructores</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>

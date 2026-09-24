@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_METHODS_07</CLSNAME>
+    <CLSNAME>ZCL_COMPLEX_TABLE_07</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Practice. C3 L3. ALL</DESCRIPT>
+    <DESCRIPT>Try it Out. C6 L1. Complex Table Types</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>

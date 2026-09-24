@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_METHODS_07</CLSNAME>
+    <CLSNAME>ZCL_07_ITAB</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Practice. C3 L3. ALL</DESCRIPT>
+    <DESCRIPT>Solution: Structured Data Object</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
