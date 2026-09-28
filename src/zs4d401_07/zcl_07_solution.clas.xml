@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_INT_TAB_ABAP_SQL</CLSNAME>
+    <CLSNAME>ZCL_07_SOLUTION</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Try It Out. C6 L2. Internal Tables in ABAP SQL</DESCRIPT>
+    <DESCRIPT>Ejercicio 1. C1 L1. Copy and Understand a Template Class</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
